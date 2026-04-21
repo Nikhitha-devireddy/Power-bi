@@ -1,10 +1,5 @@
 # Data Jobs Dashboard w/ Power BI
 
-<a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
-</a>
-
-
 ## Introduction
 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
